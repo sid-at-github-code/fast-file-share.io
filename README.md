@@ -8,7 +8,6 @@
 
 *Share files up to 10MB with military-grade security and startup-level aesthetics* ✨
 
-[🎯 Demo](#-demo) • [🚀 Quick Start](#-quick-start) • [📖 Documentation](#-documentation) • [🤝 Contributing](#-contributing)
 
 </div>
 
