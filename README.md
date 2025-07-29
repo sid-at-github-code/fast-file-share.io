@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 FAT-FileShare.io
+# 🚀 FAST-FileShare.io
 
 ### *Secure, Fast, and Beautiful File Sharing*
 
